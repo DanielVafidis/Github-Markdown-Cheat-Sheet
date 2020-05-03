@@ -26,7 +26,7 @@ Bold and nested italic: ** ** and _ _
 All bold and italic: *** ***
 ```
 
-##### Examples:
+### Examples:
 
 Bold: **Bold**
 
@@ -48,3 +48,20 @@ All bold and italic: ***All bold and italic***
 Call out `this part` of a sentence
 ```
 
+
+## Links
+###### You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
+
+```
+[This is the text that will link](to this URL)
+```
+
+> Tip: GitHub automatically creates links when valid URLs are written in a comment. For more information, see "[Autolinked references and URLS.](https://help.github.com/en/articles/autolinked-references-and-urls)"
+
+> You can link directly to a section in a rendered file by hovering over the section heading to expose the link
+
+> You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
+
+> [Example of a linked file](linked-file.txt)
+
+GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. You can use all relative link operands, such as `./` and `../`.
