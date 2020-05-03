@@ -28,15 +28,15 @@ All bold and italic: *** ***
 
 ### Examples:
 
-Bold: **Bold**
+> Bold: **Bold**
 
-Italic: *Italic*
+> Italic: *Italic*
 
-Strikethrough: ~~Strikethrough~~
+> Strikethrough: ~~Strikethrough~~
 
-Bold and nested italic: **Bold and _nested italic_**
+> Bold and nested italic: **Bold and _nested italic_**
 
-All bold and italic: ***All bold and italic***
+> All bold and italic: ***All bold and italic***
 
 
 ## Quoting
