@@ -12,3 +12,14 @@
 ##### Second smallest heading (h5)
 ###### Smallest Heading (h6)
 ```
+
+## Styling text
+###### You can indicate emphasis with bold, italic, or strikethrough text.
+
+```
+Bold: ** ** or __ __ (cmd/ctrl + B)
+Italic: * * or _ _ (cmd/ctrl + I) 
+Strikethrough: ~~ ~~
+Bold and nested italic: ** ** and _ _
+All bold and italic: *** ***
+```
