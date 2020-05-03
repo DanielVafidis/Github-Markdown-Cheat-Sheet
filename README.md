@@ -24,6 +24,12 @@ Bold and nested italic: ** ** and _ _
 All bold and italic: *** ***
 ```
 
+Bold: **Bold**
+Italic: *Italic*
+Strikethrough: ~~Strikethrough~~
+Bold and nested italic: **_Bold and nested italic_**
+All bold and italic: ***All bold and italic***
+
 
 ## Quoting
 ###### You can quote text with a \> or call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
@@ -31,6 +37,6 @@ All bold and italic: *** ***
 ```
 > Quote this line
 
-Quote `this part` of a sentence
-
+Call out `this part` of a sentence
 ```
+
