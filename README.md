@@ -64,4 +64,4 @@ Call out `this part` of a sentence
 
 > [Example of a linked file](linked-file.txt)
 
-GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. You can use all relative link operands, such as `./` and `../`.
+> GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. You can use all relative link operands, such as `./` and `../`.
