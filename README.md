@@ -2,6 +2,7 @@
 #### This is a simple Github Markdown Cheat Sheet aiming to help me (and others) finding most used Markdown syntax for my projects.
 
 
+
 ## Headings
 ###### To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
@@ -13,6 +14,7 @@
 ##### Second smallest heading (h5)
 ###### Smallest Heading (h6)
 ```
+
 
 
 ## Styling text
@@ -35,6 +37,7 @@ Strikethrough: ~~Strikethrough~~
 Bold and nested italic: **_Bold and nested italic_**
 
 All bold and italic: ***All bold and italic***
+
 
 
 ## Quoting
