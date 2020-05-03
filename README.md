@@ -2,7 +2,6 @@
 #### This is a simple Github Markdown Cheat Sheet aiming to help me (and others) finding most used Markdown syntax for my projects.
 
 
-
 ## Headings
 ###### To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
@@ -16,7 +15,6 @@
 ```
 
 
-
 ## Styling text
 ###### You can indicate emphasis with bold, italic, or strikethrough text.
 
@@ -28,17 +26,17 @@ Bold and nested italic: ** ** and _ _
 All bold and italic: *** ***
 ```
 
+```
 Bold: **Bold**
 
 Italic: *Italic*
 
 Strikethrough: ~~Strikethrough~~
 
-Bold and nested italic: **_Bold and nested italic_**
+Bold and nested italic: **Bold and _nested italic_**
 
 All bold and italic: ***All bold and italic***
-
-
+```
 
 ## Quoting
 ###### You can quote text with a \> or call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
