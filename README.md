@@ -70,7 +70,7 @@ Call out `this part` of a sentence
 
 
 ## Lists
-###### You can make an unordered list by preceding one or more lines of text with - or *.
+###### You can make an unordered list by preceding one or more lines of text with `-` or `*`.
 
 
 #### Unordered lists
@@ -95,8 +95,8 @@ Call out `this part` of a sentence
 3. John Quincy Adams
 
 
-###### Nested Lists
-#### You can create a nested list by indenting one or more list items below another item.
+#### Nested Lists
+###### You can create a nested list by indenting one or more list items below another item.
 ```
 1. First list item
    - First nested list item
@@ -107,7 +107,7 @@ Call out `this part` of a sentence
      - Second nested list item
 
 
-## Task lists
+#### Task lists
 ###### To create a task list, preface list items with a regular space character followed by `[ ]`. To mark a task as complete, use `[x]`.
 ```
 - [x] Finish my changes
@@ -118,9 +118,9 @@ Call out `this part` of a sentence
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
-> If a task list item description begins with a parenthesis, you'll need to escape it with '\':
+> If a task list item description begins with a parenthesis, you'll need to escape it with '\\':
 
-- [ ]\(Optional) Open a followup issue
+- [ ] \(Optional) Open a followup issue
 
 ## Mentioning people and teams
 
