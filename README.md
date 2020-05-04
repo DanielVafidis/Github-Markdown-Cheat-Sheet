@@ -62,6 +62,76 @@ Call out `this part` of a sentence
 
 > You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
 
+`[Example of a linked file](linked-file.txt)`
+
 > [Example of a linked file](linked-file.txt)
 
 > GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. You can use all relative link operands, such as `./` and `../`.
+
+
+## Lists
+###### You can make an unordered list by preceding one or more lines of text with - or *.
+
+
+#### Unordered lists
+```
+- George Washington
+- John Adams
+- Thomas Jefferson
+```
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+
+#### To order your list, precede each line with a number.
+```
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+```
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+
+###### Nested Lists
+#### You can create a nested list by indenting one or more list items below another item.
+```
+1. First list item
+   - First nested list item
+     - Second nested list item
+```
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+
+## Task lists
+###### To create a task list, preface list items with a regular space character followed by `[ ]`. To mark a task as complete, use `[x]`.
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+> If a task list item description begins with a parenthesis, you'll need to escape it with '\':
+
+- [ ]\(Optional) Open a followup issue
+
+## Mentioning people and teams
+
+> You can mention a person or team on GitHub by typing @ plus their username or team name. This will trigger a notification and bring their attention to the conversation. People will also receive a notification if you edit a comment to mention their username or team name. 
+
+###### For more information about notifications, see "[About notifications](https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/about-notifications)".
+
+
+## Referencing issues and pull requests
+
+> You can bring up a list of suggested issues and pull requests within the repository by typing #. Type the issue or pull request number or title to filter the list, and then press either tab or enter to complete the highlighted result.
+
+###### For more information, see "[Autolinked references and URLs](https://help.github.com/en/articles/autolinked-references-and-urls)".
+
