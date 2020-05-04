@@ -1,6 +1,16 @@
 # Github Markdown Cheat Sheet
 #### This is a simple Github Markdown Cheat Sheet aiming to help me (and others) finding most used Markdown syntax for my projects.
 
+- [Headings](#headings)
+- [Styling text](#styling-text)
+- [Quoting](#quoting)
+- [Links](#links)
+- [Lists](#lists)
+- [Task lists](#task-lists)
+- [Mentioning people and teams](#mentioning-people-and-teams)
+- [Referencing issues and pull requests](#referencing-issues-and-pull-requests)
+
+
 
 ## Headings
 ###### To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
